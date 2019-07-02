@@ -1,0 +1,7 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: rgb(169, 169, 236);
+    font-family: 'Oswald',sans-serif;
+}
